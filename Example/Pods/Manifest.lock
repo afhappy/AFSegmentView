@@ -1,0 +1,16 @@
+PODS:
+  - AFSegmentView (0.1.0)
+
+DEPENDENCIES:
+  - AFSegmentView (from `../`)
+
+EXTERNAL SOURCES:
+  AFSegmentView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFSegmentView: 84b4b0e7c04828e3f6d17b97d308e2511371f08d
+
+PODFILE CHECKSUM: a693d5314559843e66f76029d86cedcba7883992
+
+COCOAPODS: 1.5.0

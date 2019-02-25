@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AFSegmentView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AFSegmentView.'
+  s.summary          = '选项卡切换'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

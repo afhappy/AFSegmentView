@@ -1,0 +1,6 @@
+framework module AFSegmentView {
+  umbrella header "AFSegmentView-umbrella.h"
+
+  export *
+  module * { export * }
+}
