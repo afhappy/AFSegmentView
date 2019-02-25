@@ -1,7 +1,7 @@
 {
   "name": "AFSegmentView",
-  "version": "0.1.0",
-  "summary": "A short description of AFSegmentView.",
+  "version": "0.1.1",
+  "summary": "选项卡切换",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/afhappy/AFSegmentView",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/afhappy/AFSegmentView.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

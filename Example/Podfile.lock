@@ -1,5 +1,5 @@
 PODS:
-  - AFSegmentView (0.1.0)
+  - AFSegmentView (0.1.1)
 
 DEPENDENCIES:
   - AFSegmentView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AFSegmentView: 84b4b0e7c04828e3f6d17b97d308e2511371f08d
+  AFSegmentView: 1dc6d35fef76c10310cc60329a7946bd7fcfafff
 
 PODFILE CHECKSUM: a693d5314559843e66f76029d86cedcba7883992
 
